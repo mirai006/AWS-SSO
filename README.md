@@ -24,4 +24,4 @@ AWS SSO saml機能を用いて､追加するためには下記の手順とな�
 8. Identify Providerに紐づくロールを作成する
 9. AIMで作成したIdentify Provider情報､ロール情報を登録する
 
-SSOするためにあh､
+
